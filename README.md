@@ -18,5 +18,7 @@ Helloooo! Welcome to my profile
 
 My name is Vitor and...
 ☺️  I really like to learn
+
 📋 I'm studying systems development
+
 ✈ And I pretend to travel in the world a lot!!
