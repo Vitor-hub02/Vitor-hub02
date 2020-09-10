@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Helloooo! Welcome to my profile
+
+My name is Vitor and...
+☺️  I really like to learn
+📋 I'm studying systems development
+✈ And I pretend to travel in the world a lot!!
