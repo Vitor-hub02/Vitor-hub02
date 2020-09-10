@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Helloooo! Welcome to my profile
 
 My name is Vitor and...
+
 ☺️  I really like to learn
 
 📋 I'm studying systems development
